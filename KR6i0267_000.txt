@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說成具光明定意經
+#+DATE: 2015-08-30 20:14:34.693102
+#+PROPERTY: JUAN 0
