@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 630
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0267_T_001-0451b> 
 #+PROPERTY: JUAN 1
 ¶
@@ -45,7 +45,7 @@ No. 630¶
 
 諸來明士、在會坐者，率皆妙行、心¶
 清口淨、身服眾戒，三穢、六患、五蔽已索，眾煩¶
-熱惱、雜垢沃若、疑網閉結、倒見之謬、不知¶
+熱惱、雜垢、疑網閉結、倒見之謬、不知¶
 之本、十二牽連，皆已絕棄。淨如月花，各隨世¶
 習俗，依行立字。
 <pb:KR6i0267_T_001-0451c>¶
